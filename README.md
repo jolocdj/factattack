@@ -7,7 +7,7 @@ Fact Attack is a web-based quiz application developed using Django, HTML, CSS, a
 - Real-time scoring system
 - Timer-based quizzes
 - User-friendly interface
-- Instant feedback after each quiz
+- Instant feedback after each quiz.
 
 ## 🛠️ Tech Stack
 - Backend: Django (Python)
