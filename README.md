@@ -3,7 +3,7 @@
 Fact Attack is a web-based quiz application developed using Django, HTML, CSS, and JavaScript. It allows users to test their knowledge through interactive quizzes with different difficulty levels!
 
 ## 🚀 Features
-- Multiple quiz categories and difficulty levels
+- Multiple quiz categories and difficulty levels 
 - Real-time scoring system
 - Timer-based quizzes
 - User-friendly interface
